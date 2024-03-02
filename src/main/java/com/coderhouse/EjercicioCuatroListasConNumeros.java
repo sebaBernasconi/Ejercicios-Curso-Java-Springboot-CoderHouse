@@ -1,6 +1,6 @@
 package com.coderhouse;
 
-public class EjercicioCuatroListas {
+public class EjercicioCuatroListasConNumeros {
 
     public static void main(String[] args) {
 
