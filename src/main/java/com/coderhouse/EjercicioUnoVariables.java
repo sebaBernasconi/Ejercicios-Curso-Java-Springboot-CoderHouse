@@ -1,6 +1,6 @@
 package com.coderhouse;
 
-public class Ejercicio1 {
+public class EjercicioUnoVariables {
     public static void main(String[] args) {
 
         int numeroEntero = 11;
