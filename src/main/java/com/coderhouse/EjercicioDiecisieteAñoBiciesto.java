@@ -8,14 +8,14 @@ public class EjercicioDiecisieteAñoBiciesto {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Ingrese un año para ver si es biciesto");
+        System.out.println("Ingrese un año para ver si es bisiesto");
 
         int año = sc.nextInt();
 
         if (año % 4 == 0){
-            System.out.println("El año " + año + " SI es biciesto.");
+            System.out.println("El año " + año + " SI es bisiesto.");
         }else {
-            System.out.println("El año " + año + " NO es biciesto.");
+            System.out.println("El año " + año + " NO es bisiesto.");
 
         }
     }
